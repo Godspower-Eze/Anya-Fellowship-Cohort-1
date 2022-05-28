@@ -1,0 +1,9 @@
+[submodule "week1"]
+	path = week1
+	url = git@github.com:Godspower-Eze/week1-anya-cohort1.git
+[submodule "week2"]
+	path = week2
+	url = git@github.com:Godspower-Eze/week2-anya-cohort-1.git
+[submodule "week1(foundry)"]
+	path = week1(foundry)
+	url = git@github.com:Godspower-Eze/week1-foundry-anya-cohort-1.git
